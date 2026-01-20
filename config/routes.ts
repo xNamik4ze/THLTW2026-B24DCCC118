@@ -16,6 +16,12 @@
 		],
 	},
 
+	{
+		path: '/products',
+		name: 'Quản lý sản phẩm',
+		component: './ProductManagement',
+	},
+
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
