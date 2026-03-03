@@ -17,6 +17,18 @@
 	},
 
 	{
+		path: '/bai1',
+		name: 'Bai 1',
+		component: './Game1',
+	},
+
+	{
+		path: '/bai2',
+		name: 'Bai 2',
+		component: './Game2',
+	},
+	
+	{
 		path: '/products',
 		name: 'Quản lý sản phẩm',
 		component: './ProductManagement',
