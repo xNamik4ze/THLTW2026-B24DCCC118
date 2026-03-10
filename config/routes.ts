@@ -1,4 +1,6 @@
-﻿export default [
+﻿import component from "@/locales/en-US/component";
+
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -18,6 +20,16 @@
 
 	///////////////////////////////////
 	// DEFAULT MENU
+	{
+		path: '/Game1',
+		name: 'Game1',
+		component: './Game1',
+	},
+	{
+		path: '/Game2',
+		name: 'Game2',
+		component: './Game2',
+	},
 	{
 		path: '/dashboard',
 		name: 'Dashboard',
