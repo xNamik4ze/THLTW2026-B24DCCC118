@@ -19,6 +19,11 @@
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
+		path: '/TravelPlanner',
+		name: 'TravelPlanner',
+		component:'./TravelPlanner',
+	},
+	{
 		path: '/dashboard',
 		name: 'Dashboard',
 		component: './TrangChu',
