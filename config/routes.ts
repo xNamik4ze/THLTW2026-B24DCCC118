@@ -19,6 +19,11 @@
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
+		path: '/ktgk',
+		name: 'KTGK',
+		component:'./KTGK',
+	},
+	{
 		path: '/dashboard',
 		name: 'Dashboard',
 		component: './TrangChu',
