@@ -160,8 +160,8 @@ const Ktgk = () => {
               { label: 'Tạm dừng', value: 'Tạm dừng' }
             ]} />
           </Form.Item>
-          <Form.Item name="des" label="Mô tả (HTML)">
-            <Input.TextArea rows={4} placeholder="Nhập mã HTML mô tả..." />
+          <Form.Item name="des" label="Mô tả">
+            <Input.TextArea rows={4} placeholder="Nhập mô tả..." />
           </Form.Item>
         </Form>
       </Modal>
