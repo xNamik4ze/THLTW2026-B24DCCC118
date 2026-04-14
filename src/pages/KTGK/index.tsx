@@ -160,7 +160,7 @@ const Ktgk = () => {
               { label: 'Tạm dừng', value: 'Tạm dừng' }
             ]} />
           </Form.Item>
-          <Form.Item name="des" label="Mô tả">
+          <Form.Item name="des" label="Mô tả khóa học">
             <Input.TextArea rows={4} placeholder="Nhập mô tả..." />
           </Form.Item>
         </Form>
