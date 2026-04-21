@@ -19,6 +19,11 @@
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
+		path: '/th07',
+		name: 'TH07',
+		component:'./TH07',
+	},
+	{
 		path: '/dashboard',
 		name: 'Dashboard',
 		component: './TrangChu',
